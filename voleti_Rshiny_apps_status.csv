@@ -1,0 +1,57 @@
+App_Name,Description,Language,Video Link,GitHubLink,Development Status
+Image_Processing_App,Image transformation tools – color scale / tint / avatarize,R,,https://github.com/sudhir-voleti/Image_Processing_App,Updated
+PCA_Image,PCA of an input image after conversion to grayscale; visualization tool for concept ,R,,https://github.com/sudhir-voleti/PCA_Image,Updated
+network_data_prep_app,Transforming a dataset into a format that is compatible with the network analysis application,R,,https://github.com/sudhir-voleti/network_data_prep_app,Updated
+decision-tree,D-trees training and prediction,R,,https://github.com/sudhir-voleti/decision-tree,Updated
+jsm-shinyapp,Joint space and perceptual mapping,R,https://youtu.be/d4pAq6UHxas,https://github.com/sudhir-voleti/jsm-shinyapp,Updated
+basic-text-analysis-shiny,DTM building using TF and TF-IDF concepts,R,https://youtu.be/ieW_tWroIvU,https://github.com/sudhir-voleti/basic-text-analysis-shinyapp,Updated
+OLS_Detail,OLS inferences with statistical tests for further analysis,R,,https://github.com/sudhir-voleti/OLS_Detailed,Updated
+ols-shinyapp,Basic OLS inferences,R,,https://github.com/sudhir-voleti/ols-shinyapp,Updated
+text-topic-analysis-shinyapp,Latent topic modelling,R,https://youtu.be/GilUJqlvTgE,https://github.com/sudhir-voleti/text-topic-analysis-shinyapp,Updated
+sentiment-an-shinyapp,Sentiment mining using AFINN / Bing / NRC / Loughran,R,https://youtu.be/4b7ZidC6ZOA,https://github.com/sudhir-voleti/sentiment-an-shinyapp,Updated
+FactorAn,Factor analysis – scores and loading matrices,R,https://youtu.be/lxj5MPYHBwM,https://github.com/sudhir-voleti/FactorAn,Updated
+KeyWordFiltering,Filter out relevant sentences from a text corpus,R,https://youtu.be/93o5CQKezVk,https://github.com/sudhir-voleti/KeyWordFiltering,Updated
+PCA-App,PCA on numerical data,R,,https://github.com/sudhir-voleti/PCA-App,Updated
+OMDb-App,Content scrapiong from OMDb after API key input,R,,https://github.com/sudhir-voleti/OMDb-App,Updated
+advanced-text-analysis,UDPipe demonstration and NER,R,,https://github.com/sudhir-voleti/advanced-text-analysis,Updated
+Wiki-Scraper,Wikipedia scraper and trend line mapper,R,,https://github.com/sudhir-voleti/Wiki-Scraper,Updated
+LogitReg,Basic logistic regression with inference table,R,,https://github.com/sudhir-voleti/LogitReg,Updated
+Marketing_Segmentation_Ne,Customer segmentation app with visuals,R,https://youtu.be/QuFiS6Gourk,https://github.com/sudhir-voleti/Marketing_Segmentation_New,Updated
+Anova-ShinyApp,Anova/Ancova and Manova without graphics,R,,https://github.com/sudhir-voleti/Anova-ShinyApp,In Development
+lp_solver,Linear problem solver,R,,https://github.com/sudhir-voleti/lp_solver,To-Check
+spotify_shiny_app,Spotify API feature scraper User friendly interface,R,,https://github.com/sudhir-voleti/spotify_shiny_app,Updated
+Amazon-Shiny-Scraper,Amazon reviews scraper based on URL,R,,https://github.com/sudhir-voleti/Amazon-Shiny-Scraper,Functional
+ML_Algos_for_Classificati,Variety of classification,R,,https://github.com/sudhir-voleti/ML_Algos_for_Classification,Updated
+ocr-shinyapp,Optical character recognition of text or numbers from images,R,https://youtu.be/1bM65ce9Sxo,https://github.com/sudhir-voleti/ocr-shinyapp,Updated
+KNN-App,K-Nearest Neighbours,R,,https://github.com/sudhir-voleti/KNN-App,To-Check
+shiny_barcode_app,Barcode generator ,R,,https://github.com/sudhir-voleti/shiny_barcode_app,To-Check
+factor-analysis-shinyapp,Earlier edition of factor analysis,R,,https://github.com/sudhir-voleti/factor-analysis-shinyapp,Deprecated
+network-analysis-shinyapp,Network analysis,R,,https://github.com/sudhir-voleti/network-analysis-shinyapp,Functional
+data_pre-process_shinyapp,Basic data cleaning and summarization,R,https://youtu.be/wBYs76sjuBQ,https://github.com/sudhir-voleti/data_pre-process_shinyapp,Functional
+text-network-app,Networks from text data,R,,https://github.com/sudhir-voleti/text-network-app,Functional
+segmentation-mktr,,R,,https://github.com/sudhir-voleti/segmentation-mktr,Deprecated
+Marketing_Segmentation,,R,,https://github.com/sudhir-voleti/Marketing_Segmentation,Deprecated
+google-trends,,R,,https://github.com/sudhir-voleti/google-trends,Functional
+AutoML-App,ML classification and regression algorithms from H2O library,R,,https://github.com/sudhir-voleti/AutoML-App,Functional
+biplot-shinyapp,,R,,https://github.com/sudhir-voleti/biplot-shinyapp,Functional
+image-to-text,,R,,https://github.com/sudhir-voleti/image-to-text,To-Check
+text_summarization,,R,,https://github.com/sudhir-voleti/text_summarization,Functional
+text-segmentation-shinyap,,R,,https://github.com/sudhir-voleti/text-segmentation-shinyapp,To-Check
+text-filtering-by-keyword,,R,,https://github.com/sudhir-voleti/text-filtering-by-keywords-1,Deprecated
+segmentation-discriminant,,R,,https://github.com/sudhir-voleti/segmentation-discriminant-and-targeting-shinyapp,Deprecated
+segmentation-shinyapp,,R,,https://github.com/sudhir-voleti/segmentation-shinyapp,To-Check
+RFM-CLV,Recency-Frequency – Customer Lifetime Value,R,https://youtu.be/d53eRyaLvQ4,https://github.com/sudhir-voleti/RFM-CLV,Functional
+likert-visualization-shin,,R,,https://github.com/sudhir-voleti/likert-visualization-shinyapp,To-Check
+regression-tree,,R,,https://github.com/sudhir-voleti/regression-tree,Deprecated
+profile-script,,R,,https://github.com/sudhir-voleti/profile-script,Deprecated
+dataset-summary-shinyapp,,R,,https://github.com/sudhir-voleti/dataset-summary-shinyapp,To-Check
+KeyWordFilterin,Filter out relevant sentences from a text corpus,R,https://youtu.be/93o5CQKezVk,https://github.com/Shivani-Srivastava/KeyWordFiltering,Updated
+AB_Testing,A/B testing of digital or RCT datasets,R,,https://github.com/Shivani-Srivastava/AB_Testing,In Development
+Sentiment_Dataf,Visually comparing document sentiments over the length,R,,https://github.com/Shivani-Srivastava/Sentiment_Datafication,In Development
+Word2Vec,"Embedding document or sentence or word embeddings to see similar sentences, words or tokens within the same document",R,,https://github.com/Shivani-Srivastava/Word2Vec,In Development
+Text-Regression,,R,,https://github.com/Shivani-Srivastava/Text-Regression-App,In Development
+CausalImpact,,R,,https://github.com/Shivani-Srivastava/CausalImpact,In Development
+text-classifica,,R,,https://github.com/Shivani-Srivastava/text-classification-shinyapp,Functional
+Channel Attribution,,R,https://youtu.be/rM_Ms4zHSR8,ZEROCODE-DIRECTLY,
+Basic_Text_An_Emoji,,R,,https://github.com/yogesh1612/Basic_Text_An_Emoji,In Development
+Recommendation-system-shinyapp,,R,https://youtu.be/_u9glAZn54A,https://github.com/sudhir-voleti/recommendation-system-shinyapp,Functional
